@@ -6,6 +6,15 @@
 <link rel="icon" type="image/png" href="wizard-mona.png">
 <title>AI-Native Developer Platform — Enablement Hub</title>
 <meta name="description" content="A guided journey through GitHub's AI-native developer platform: the story, the sessions, the live demo, and the deck.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mdiiacovo.github.io/">
+<meta property="og:title" content="AI-Native Developer Platform — Enablement Hub">
+<meta property="og:description" content="A guided journey through GitHub's AI-native developer platform: story, series, live demo, and deck.">
+<meta property="og:image" content="https://mdiiacovo.github.io/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI-Native Developer Platform — Enablement Hub">
+<meta name="twitter:description" content="A guided journey through GitHub's AI-native developer platform.">
+<meta name="twitter:image" content="https://mdiiacovo.github.io/og.png">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 :root {
@@ -15,6 +24,10 @@
   --orange: #f0883e;
 }
 html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   background: var(--bg); color: var(--text); min-height: 100vh; overflow-x: hidden;
