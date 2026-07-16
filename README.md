@@ -6,6 +6,8 @@ Organized into collections so it scales as resources are added:
 
 ## 💎 The Platform Story
 - **[The GitHub SDLC Experience](https://mdiiacovo.github.io/github-sdlc-experience/)** — why GitHub, at scale.
+  - [SDLC Economics Calculator](https://mdiiacovo.github.io/github-sdlc-experience/economics.html) · [Platform Portfolio Picker](https://mdiiacovo.github.io/github-sdlc-experience/products.html)
+  - Motion walkthroughs: [Governed](https://mdiiacovo.github.io/github-sdlc-experience/walkthrough.html) · [Sprint](https://mdiiacovo.github.io/github-sdlc-experience/walkthrough-sprint.html) · [Agentic](https://mdiiacovo.github.io/github-sdlc-experience/walkthrough-agentic.html)
 
 ## 🎓 Agentic SDLC Enablement
 - **[The Enablement Series](https://mdiiacovo.github.io/agentic-sdlc-enablement/)** — the three-session engagement.
