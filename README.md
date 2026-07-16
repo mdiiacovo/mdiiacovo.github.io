@@ -15,6 +15,9 @@ Organized into collections so it scales as resources are added:
 - **[The Agentic SDLC Deck](https://mdiiacovo.github.io/agentic-sdlc-deck/)** — the deck to deliver it live.
 - **[Presentation Generator](https://mdiiacovo.github.io/csa-deck-generator/)** — make your own deck.
 
+## 🎯 Workshops
+- **[Agent Quality & Token Optimization](https://mdiiacovo.github.io/agent-quality-optimization/)** — customer-facing workshop; presenter can show/hide slides. ([repo](https://github.com/mdiiacovo/agent-quality-optimization))
+
 ## 🚀 Hackathon
 - **[Sessions & Resources](https://mdiiacovo.github.io/ai-native-sessions/)** — the two sessions.
 - **[Prompting Cheat Sheet](https://mdiiacovo.github.io/ai-native-sessions/cheatsheet.html)**
