@@ -14,6 +14,8 @@ Organized into collections so it scales as resources are added:
 - **[The Live-Pipeline Repo](https://github.com/mdiiacovo/agentic-sdlc-pipeline)** — the operational Session 2 repo (governed TypeScript pipeline).
 - **[The Agentic SDLC Deck](https://mdiiacovo.github.io/agentic-sdlc-deck/)** — the deck to deliver it live.
 - **[Presentation Generator](https://mdiiacovo.github.io/csa-deck-generator/)** — make your own deck.
+- **[Issue-Quality Helper](https://mdiiacovo.github.io/issue-quality-helper/)** — rough idea → agent-ready issue.
+- **[Session 3 Facilitator Kit](https://mdiiacovo.github.io/agentic-sdlc-enablement/facilitator-kit.html)** · **[Governance Starter Pack](https://github.com/mdiiacovo/agentic-sdlc-pipeline/blob/main/GOVERNANCE-STARTER.md)**
 
 ## 🎯 Workshops
 - **[Agent Quality & Token Optimization](https://mdiiacovo.github.io/agent-quality-optimization/)** — customer-facing workshop; presenter can show/hide slides. ([repo](https://github.com/mdiiacovo/agent-quality-optimization))
