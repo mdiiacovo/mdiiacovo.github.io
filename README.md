@@ -9,7 +9,7 @@ Organized into collections so it scales as resources are added:
 
 ## 🎓 Agentic SDLC Enablement
 - **[The Enablement Series](https://mdiiacovo.github.io/agentic-sdlc-enablement/)** — the three-session engagement.
-- **The Live-Pipeline Repo** — operational Session 2 repo *(in progress)*.
+- **[The Live-Pipeline Repo](https://github.com/mdiiacovo/agentic-sdlc-pipeline)** — the operational Session 2 repo (governed TypeScript pipeline).
 - **[The Agentic SDLC Deck](https://mdiiacovo.github.io/agentic-sdlc-deck/)** — the deck to deliver it live.
 - **[Presentation Generator](https://mdiiacovo.github.io/csa-deck-generator/)** — make your own deck.
 
